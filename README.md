@@ -2,16 +2,10 @@
 
 ### General Tech Remote Jobs
 
-- [Turing](https://www.turing.com/)  
-  Connects developers with remote job opportunities across various tech industries.
+- [Turing]([https://www.turing.com/](https://www.turing.com/remote-developer-jobs))  
+  Connects developers with remote job opportunities across various tech industry
 
-- [Triplebyte Job Board](https://www.triplebyte.com/job-board)  
-  A job board specializing in remote tech and data-related positions.
-
-- [Dev.to](https://dev.to/)  
-  A community-based platform offering remote job listings for developers.
-
-- [Arc Dev Job Board](https://arc.dev/jobs)  
+- [Arc Dev Job Board](https://arc.dev/talent)  
   A job board specializing in remote opportunities for developers.
 
 - [HackerNews Job Board](https://news.ycombinator.com/jobs)  
@@ -34,23 +28,8 @@
 
 ### Remote Job Boards for Startups & Freelancers
 
-- [Sahil's Job Board](https://sahil.jobboardfire.com/)  
-  Curated by Sahil Lavingia, focusing on remote opportunities across various sectors.
-
-- [Pragmatic Engineer Jobs](https://pragmatic.engineer/jobs)  
-  A job board with a focus on pragmatic job opportunities, particularly in engineering.
-
-- [No Whiteboard Jobs](https://www.nowhiteboards.io/)  
-  A job board for developers focusing on positions that avoid traditional whiteboard interviews.
-
-- [Commit Dev](https://www.commit.dev/)  
-  Connects developers with remote job opportunities and career development.
-
 - [Devfolio](https://devfolio.co/)  
   A job board for developers and tech enthusiasts, featuring various remote opportunities.
-
-- [Bit Dev](https://bitdev.io/)  
-  A platform connecting developers with remote job opportunities in the tech industry.
 
 - [White Truffle](https://www.whitetruffle.com/)  
   Specializes in connecting tech talent with job opportunities.
@@ -58,19 +37,12 @@
 - [Dynamite Job Board](https://www.ryrob.com/remote-jobs-websites/)  
   A comprehensive job board with a focus on remote positions across different industries.
 
-- [Product Hunt Jobs](https://www.producthunt.com/jobs)  
-  A job board featuring positions at innovative companies and startups.
-
-- [Peerlist.io](https://peerlist.io/)  
+- [Peerlist.io]([https://peerlist.io/](https://peerlist.io/jobs/role/remote))  
   A platform that connects professionals with peer-reviewed job opportunities.
 
 ## Remote Job Websites
 
 ### General Remote Jobs
-
-- [McKinsey](https://www.mckinsey.com/featured-insights/future-of-work/whats-next-for-remote-work-an-analysis-of-2000-tasks-800-jobs-and-nine-countries)  
-  McKinsey's analysis provides insights into remote work potential in sectors like finance and insurance.
-
 - [FlexJobs](https://www.flexjobs.com/blog/post/top-companies-work-from-anywhere-remote-jobs/)  
   Lists companies offering work-from-anywhere jobs with zero location restrictions.
 
@@ -98,24 +70,11 @@
 - [AngelList Job Board](https://angel.co/jobs)  
   A platform connecting startups with remote talent for various positions.
 
-### Digital Marketing Remote Jobs
+- [Working Nomad]( https://www.workingnomads.co/jobs)
+  A platform for remote jobs
 
-- [Mayple](https://www.mayple.com/blog/what-are-the-best-remote-jobs-in-2023)  
-  A platform specifically for digital marketing professionals seeking remote jobs.
-
-- [Ladder Job Board](https://ladder.io/jobs)  
-  Focuses on remote job opportunities for marketers and related roles.
-
-- [KeyValues Job Board](https://www.keyvalues.com/jobs)  
-  A job board that emphasizes company culture and values in remote job listings.
-
-### Remote Job Platforms for Specific Regions
-
-- [Breathing Travel](https://breathingtravel.com/best-sites-to-your-dream-remote-job/)  
-  Provides a variety of remote job opportunities for digital nomads and travelers.
-
-- [MyHQ](https://digest.myhq.in/sites-to-get-high-paying-remote-jobs-in-india/)  
-  Lists high-paying remote jobs in India, focusing on legitimate opportunities.
+- [Career Vault](https://careervault.io/)
+  A platform for remote jobs
 
 - [Talent.io Job Board](https://www.talent.io/)  
   A platform connecting tech talent with remote opportunities.
