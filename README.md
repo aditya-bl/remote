@@ -37,7 +37,7 @@
 - [Dynamite Job Board](https://www.ryrob.com/remote-jobs-websites/)  
   A comprehensive job board with a focus on remote positions across different industries.
 
-- [Peerlist.io]([https://peerlist.io/](https://peerlist.io/jobs/role/remote))  
+- [Peerlist.io](https://peerlist.io/jobs/role/remote)    
   A platform that connects professionals with peer-reviewed job opportunities.
 
 ## Remote Job Websites
