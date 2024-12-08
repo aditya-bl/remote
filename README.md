@@ -1,3 +1,69 @@
+## Tech & Development Remote Jobs
+
+### General Tech Remote Jobs
+
+- [Turing](https://www.turing.com/)  
+  Connects developers with remote job opportunities across various tech industries.
+
+- [Triplebyte Job Board](https://www.triplebyte.com/job-board)  
+  A job board specializing in remote tech and data-related positions.
+
+- [Dev.to](https://dev.to/)  
+  A community-based platform offering remote job listings for developers.
+
+- [Arc Dev Job Board](https://arc.dev/jobs)  
+  A job board specializing in remote opportunities for developers.
+
+- [HackerNews Job Board](https://news.ycombinator.com/jobs)  
+  A job board featuring remote tech and startup positions.
+
+- [CrunchBoard Job Board](https://www.crunchboard.com/)  
+  A job board by TechCrunch focusing on tech roles and startup jobs.
+
+- [Braintrust](https://www.usebraintrust.com/)  
+  A decentralized talent network for professionals seeking remote work.
+
+- [Gun.io](https://gun.io/)  
+  A marketplace connecting freelance software developers with remote projects.
+
+- [Tailwind CSS Job Board](https://jobs.tailwindcss.com/)  
+  A job board for the Tailwind CSS community, listing related remote opportunities.
+
+- [Underdog.io](https://underdog.io/)  
+  A platform connecting tech professionals with remote startup opportunities.
+
+### Remote Job Boards for Startups & Freelancers
+
+- [Sahil's Job Board](https://sahil.jobboardfire.com/)  
+  Curated by Sahil Lavingia, focusing on remote opportunities across various sectors.
+
+- [Pragmatic Engineer Jobs](https://pragmatic.engineer/jobs)  
+  A job board with a focus on pragmatic job opportunities, particularly in engineering.
+
+- [No Whiteboard Jobs](https://www.nowhiteboards.io/)  
+  A job board for developers focusing on positions that avoid traditional whiteboard interviews.
+
+- [Commit Dev](https://www.commit.dev/)  
+  Connects developers with remote job opportunities and career development.
+
+- [Devfolio](https://devfolio.co/)  
+  A job board for developers and tech enthusiasts, featuring various remote opportunities.
+
+- [Bit Dev](https://bitdev.io/)  
+  A platform connecting developers with remote job opportunities in the tech industry.
+
+- [White Truffle](https://www.whitetruffle.com/)  
+  Specializes in connecting tech talent with job opportunities.
+
+- [Dynamite Job Board](https://www.ryrob.com/remote-jobs-websites/)  
+  A comprehensive job board with a focus on remote positions across different industries.
+
+- [Product Hunt Jobs](https://www.producthunt.com/jobs)  
+  A job board featuring positions at innovative companies and startups.
+
+- [Peerlist.io](https://peerlist.io/)  
+  A platform that connects professionals with peer-reviewed job opportunities.
+
 ## Remote Job Websites
 
 ### General Remote Jobs
@@ -32,38 +98,6 @@
 - [AngelList Job Board](https://angel.co/jobs)  
   A platform connecting startups with remote talent for various positions.
 
-### Tech & Development Remote Jobs
-
-- [Turing](https://www.turing.com/)  
-  Connects developers with remote job opportunities across various tech industries.
-
-- [Triplebyte Job Board](https://www.triplebyte.com/job-board)  
-  A job board specializing in remote tech and data-related positions.
-
-- [Dev.to](https://dev.to/)  
-  A community-based platform offering remote job listings for developers.
-
-- [Arc Dev Job Board](https://arc.dev/jobs)  
-  A job board specializing in remote opportunities for developers.
-
-- [HackerNews Job Board](https://news.ycombinator.com/jobs)  
-  A job board featuring remote tech and startup positions.
-
-- [CrunchBoard Job Board](https://www.crunchboard.com/)  
-  A job board by TechCrunch focusing on tech roles and startup jobs.
-
-- [Braintrust](https://www.usebraintrust.com/)  
-  A decentralized talent network for professionals seeking remote work.
-
-- [Gun.io](https://gun.io/)  
-  A marketplace connecting freelance software developers with remote projects.
-
-- [Tailwind CSS Job Board](https://jobs.tailwindcss.com/)  
-  A job board for the Tailwind CSS community, listing related remote opportunities.
-
-- [Underdog.io](https://underdog.io/)  
-  A platform connecting tech professionals with remote startup opportunities.
-
 ### Digital Marketing Remote Jobs
 
 - [Mayple](https://www.mayple.com/blog/what-are-the-best-remote-jobs-in-2023)  
@@ -85,38 +119,6 @@
 
 - [Talent.io Job Board](https://www.talent.io/)  
   A platform connecting tech talent with remote opportunities.
-
-### Remote Job Boards for Startups & Freelancers
-
-- [Sahil's Job Board](https://sahil.jobboardfire.com/)  
-  Curated by Sahil Lavingia, focusing on remote opportunities across various sectors.
-
-- [Pragmatic Engineer Jobs](https://pragmatic.engineer/jobs)  
-  A job board with a focus on pragmatic job opportunities, particularly in engineering.
-
-- [No Whiteboard Jobs](https://www.nowhiteboards.io/)  
-  A job board for developers focusing on positions that avoid traditional whiteboard interviews.
-
-- [Commit Dev](https://www.commit.dev/)  
-  Connects developers with remote job opportunities and career development.
-
-- [Devfolio](https://devfolio.co/)  
-  A job board for developers and tech enthusiasts, featuring various remote opportunities.
-
-- [Bit Dev](https://bitdev.io/)  
-  A platform connecting developers with remote job opportunities in the tech industry.
-
-- [White Truffle](https://www.whitetruffle.com/)  
-  Specializes in connecting tech talent with job opportunities.
-
-- [Dynamite Job Board](https://www.ryrob.com/remote-jobs-websites/)  
-  A comprehensive job board with a focus on remote positions across different industries.
-
-- [Product Hunt Jobs](https://www.producthunt.com/jobs)  
-  A job board featuring positions at innovative companies and startups.
-
-- [Peerlist.io](https://peerlist.io/)  
-  A platform that connects professionals with peer-reviewed job opportunities.
 
 ### General Platforms with Remote Job Listings
 
