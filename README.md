@@ -2,7 +2,7 @@
 
 ### General Tech Remote Jobs
 
-- [Turing]([https://www.turing.com/](https://www.turing.com/remote-developer-jobs))  
+- [Turing](https://www.turing.com/remote-developer-jobs) 
   Connects developers with remote job opportunities across various tech industry
 
 - [Arc Dev Job Board](https://arc.dev/talent)  
